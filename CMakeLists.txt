@@ -12,4 +12,4 @@ include_directories(${CMAKE_BINARY_DIR}/third-party/cereal/include)
 
 file(GLOB SRC "src/*/*.h" "src/*/*.cpp" "test/*.h" "test/*.cpp")
 
-add_executable(test src/main.cpp ${SRC})
+add_executable(test src/main.cpp ${SRC} src/db/m_data.cpp)
