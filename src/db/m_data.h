@@ -1,5 +1,6 @@
 #ifndef LAB1_META_H
 #define LAB1_META_H
+
 #include <fstream>
 #include <iostream>
 #include <cinttypes>
@@ -20,6 +21,11 @@ struct m_data {
     vector<int32_t> free;
 
     m_data();
+
+    void serialize(const std::string &file, std::ios::openmode mode);
+
+    void deserialize(const std::string &file);
+
 };
 
 #endif
