@@ -21,9 +21,9 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3d396948-316f-4ad2-bbd6-46e082928da2" name="Changes" comment="third part">
-      <change beforePath="$PROJECT_DIR$/src/db/m_data.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/db/m_data.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/db/m_data.h" beforeDir="false" afterPath="$PROJECT_DIR$/src/db/m_data.h" afterDir="false" />
+    <list default="true" id="3d396948-316f-4ad2-bbd6-46e082928da2" name="Changes" comment="The last part of main code. Started to write test">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,13 +71,13 @@
     </key>
   </component>
   <component name="RunManager" selected="CMake Application.test">
-    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
-      <method v="2">
-        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="test" type="CMakeListConfigurationType" factoryName="CMakeListConfigurationFactory" temporary="true">
       <method v="2" />
+    </configuration>
+    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
     </configuration>
     <configuration name="cereal" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="test" TARGET_NAME="cereal" CONFIG_NAME="Debug">
       <method v="2">
@@ -127,7 +127,8 @@
       <workItem from="1677593233581" duration="61000" />
       <workItem from="1677594418267" duration="46000" />
       <workItem from="1677596916583" duration="622000" />
-      <workItem from="1677772434681" duration="2430000" />
+      <workItem from="1677772434681" duration="2871000" />
+      <workItem from="1677782775497" duration="3000" />
     </task>
     <task id="LOCAL-00001" summary="second part">
       <created>1676729987111</created>
@@ -143,7 +144,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676771222617</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="The last part of main code. Started to write test">
+      <created>1677775106788</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1677775106788</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -152,7 +160,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="second part" />
     <MESSAGE value="third part" />
-    <option name="LAST_COMMIT_MESSAGE" value="third part" />
+    <MESSAGE value="The last part of main code. Started to write test" />
+    <option name="LAST_COMMIT_MESSAGE" value="The last part of main code. Started to write test" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
