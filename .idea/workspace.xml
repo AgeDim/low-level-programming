@@ -21,7 +21,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3d396948-316f-4ad2-bbd6-46e082928da2" name="Changes" comment="The last part of main code. Started to write test" />
+    <list default="true" id="3d396948-316f-4ad2-bbd6-46e082928da2" name="Changes" comment="test for graphics done!" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -71,11 +71,6 @@
   <component name="RunManager" selected="CMake Application.test">
     <configuration name="test" type="CMakeListConfigurationType" factoryName="CMakeListConfigurationFactory" temporary="true">
       <method v="2" />
-    </configuration>
-    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
-      <method v="2">
-        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
-      </method>
     </configuration>
     <configuration name="cereal" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="test" TARGET_NAME="cereal" CONFIG_NAME="Debug">
       <method v="2">
@@ -127,6 +122,7 @@
       <workItem from="1677596916583" duration="622000" />
       <workItem from="1677772434681" duration="2871000" />
       <workItem from="1677782775497" duration="3000" />
+      <workItem from="1677833452203" duration="376000" />
     </task>
     <task id="LOCAL-00001" summary="second part">
       <created>1676729987111</created>
@@ -149,7 +145,35 @@
       <option name="project" value="LOCAL" />
       <updated>1677775106788</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="create, delete, update, add test are done!">
+      <created>1677784049277</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1677784049277</updated>
+    </task>
+    <task id="LOCAL-00005" summary="test for graphics done!">
+      <created>1677833733646</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1677833733646</updated>
+    </task>
+    <task id="LOCAL-00006" summary="test for graphics done!">
+      <created>1677833786757</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1677833786757</updated>
+    </task>
+    <task id="LOCAL-00007" summary="test for graphics done!">
+      <created>1677833809416</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1677833809416</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -159,7 +183,9 @@
     <MESSAGE value="second part" />
     <MESSAGE value="third part" />
     <MESSAGE value="The last part of main code. Started to write test" />
-    <option name="LAST_COMMIT_MESSAGE" value="The last part of main code. Started to write test" />
+    <MESSAGE value="create, delete, update, add test are done!" />
+    <MESSAGE value="test for graphics done!" />
+    <option name="LAST_COMMIT_MESSAGE" value="test for graphics done!" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
