@@ -21,9 +21,9 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3d396948-316f-4ad2-bbd6-46e082928da2" name="Changes" comment="test for graphics done!">
+    <list default="true" id="3d396948-316f-4ad2-bbd6-46e082928da2" name="Changes" comment="add README.md">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image/insert.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/image/insert.PNG" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,6 +71,7 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\proga\CLionProjects\test\image" />
       <recent name="C:\Users\proga\CLionProjects\test\cmake-build-debug\third-party" />
       <recent name="C:\Users\proga\CLionProjects\test\cmake-build-debug-mingw\third-party" />
     </key>
@@ -133,7 +134,8 @@
       <workItem from="1677835928929" duration="115000" />
       <workItem from="1677836110407" duration="149000" />
       <workItem from="1677841702038" duration="7081000" />
-      <workItem from="1678638121881" duration="1135000" />
+      <workItem from="1678638121881" duration="1465000" />
+      <workItem from="1678641005199" duration="2000" />
     </task>
     <task id="LOCAL-00001" summary="second part">
       <created>1676729987111</created>
@@ -205,7 +207,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677834030816</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="add README.md">
+      <created>1678640107149</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1678640107149</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -240,7 +249,8 @@
     <MESSAGE value="The last part of main code. Started to write test" />
     <MESSAGE value="create, delete, update, add test are done!" />
     <MESSAGE value="test for graphics done!" />
-    <option name="LAST_COMMIT_MESSAGE" value="test for graphics done!" />
+    <MESSAGE value="add README.md" />
+    <option name="LAST_COMMIT_MESSAGE" value="add README.md" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
