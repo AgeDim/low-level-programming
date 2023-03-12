@@ -83,12 +83,16 @@ struct attributes {
 
 # Результаты
 * Вставка 20000 элементов
+
 ![](/image/insert.PNG)
 * Выборка 20000 элементов
+
 ![](/image/select.PNG)
 * Обновление 20000 элементов
+
 ![](/image/update.PNG)
 * Удаление 20000 элементов
+
 ![](/image/delete.PNG)
 
 # Вывод
